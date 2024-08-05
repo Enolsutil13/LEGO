@@ -5,6 +5,7 @@ Lego is a household name across the world, supported by a diverse toy line, hit 
 In this project we will see the impact of licensed sets, the quantity compared to those that are Lego's own, as well as the sets with the most pieces, the most popular sets.
 We will do an A/B testing and a small three-year prediction to see if the number of sets increases.
 We also developed two connections to an API for a set of parts based on the name of the set and the technical name of the part, which will return an image of it.
+You will have to register at https://rebrickable.com/ and in your user profile in the settings tab, create an API key. Remember to paste this key in the last code cells.
 
 ## The Data
 
